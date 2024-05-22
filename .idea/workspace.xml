@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f34fbb-04b7-4512-9865-8d6e95075c92" name="Changes" comment="Final teachable chatbot">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knowledge_base.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge_base.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -84,7 +84,7 @@
       <workItem from="1715901594369" duration="126000" />
       <workItem from="1715956839259" duration="154000" />
       <workItem from="1716220894380" duration="30000" />
-      <workItem from="1716337368049" duration="300000" />
+      <workItem from="1716337368049" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="Final teachable chatbot">
       <option name="closed" value="true" />
@@ -110,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715901612841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final teachable chatbot">
+      <option name="closed" value="true" />
+      <created>1716337676203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716337676203</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final teachable chatbot">
+      <option name="closed" value="true" />
+      <created>1716337810787</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716337810787</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

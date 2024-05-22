@@ -43,6 +43,14 @@
     {
       "question": "How many permanent teeth does an adult human have?",
       "answer": "An adult human has 32 permanent teeth."
+    },
+    {
+      "question": "Can you help me?",
+      "answer": "Sure, what do you need help with?"
+    },
+    {
+      "question": "I have some questions about the human body.",
+      "answer": "Okay, ask away!"
     }
   ]
 }
