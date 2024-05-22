@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f34fbb-04b7-4512-9865-8d6e95075c92" name="Changes" comment="Final teachable chatbot" />
+    <list default="true" id="01f34fbb-04b7-4512-9865-8d6e95075c92" name="Changes" comment="Final teachable chatbot">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_base.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge_base.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aleenaa091&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aleenaa091/TeachableChatBot.git&quot;,
+    &quot;accountId&quot;: &quot;881fbf67-4ec1-439a-8220-4f51df193ddb&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -67,6 +82,9 @@
       <workItem from="1715901499863" duration="20000" />
       <workItem from="1715901532240" duration="54000" />
       <workItem from="1715901594369" duration="126000" />
+      <workItem from="1715956839259" duration="154000" />
+      <workItem from="1716220894380" duration="30000" />
+      <workItem from="1716337368049" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="Final teachable chatbot">
       <option name="closed" value="true" />
@@ -114,6 +132,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Final teachable chatbot" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TeachableChat$main.coverage" NAME="main Coverage Results" MODIFIED="1715900998891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TeachableChat$main.coverage" NAME="main Coverage Results" MODIFIED="1716220900912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

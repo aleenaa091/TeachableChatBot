@@ -11,6 +11,38 @@
     {
       "question": "Good",
       "answer": "Me too!"
+    },
+    {
+      "question": "Hello!",
+      "answer": "Heyyyy!"
+    },
+    {
+      "question": "What's my favorite color?",
+      "answer": "Green"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "answer": "The skin is the largest organ in the human body."
+    },
+    {
+      "question": "How many bones are there in the adult human skeleton?",
+      "answer": "The adult human skeleton is made up of 206 bones."
+    },
+    {
+      "question": "What is the name of the gland that produces hormones that regulate vital body functions?",
+      "answer": "The pituitary gland produces hormones."
+    },
+    {
+      "question": "The human heart has four chambers - the right atrium, right ventricle, left atrium, and left ventricle.",
+      "answer": "The human heart has four chambers - the right atrium, right ventricle, left atrium, and left ventricle."
+    },
+    {
+      "question": "What is the name of the membrane that surrounds and protects the brain and spinal cord?",
+      "answer": "The meninges is the membrane that surrounds and protects the brain and spinal cord."
+    },
+    {
+      "question": "How many permanent teeth does an adult human have?",
+      "answer": "An adult human has 32 permanent teeth."
     }
   ]
 }
