@@ -51,6 +51,26 @@
     {
       "question": "I have some questions about the human body.",
       "answer": "Okay, ask away!"
+    },
+    {
+      "question": "How do humans build muscle?",
+      "answer": "The body repairs damaged fibers by fusing them, which increases the mass and size of the muscles."
+    },
+    {
+      "question": "What are the best ways to get over the flu?",
+      "answer": "For most healthy children and adults, home care is the best way to treat flu. This includes rest, drinking plenty of fluids, and, if needed, taking over-the-counter medications to lower fevers or reduce muscle pain."
+    },
+    {
+      "question": "How can I build muscle?",
+      "answer": "Go to the gym at least twice a week and work out specific muscle groups. Be sure to eat enough calorically and consume enough protein to repair tears in your muscles after working out."
+    },
+    {
+      "question": "How can I live a healthier life?",
+      "answer": "Make sure you are eating whole, unprocessed foods throughout the day. Exercise and drink water, and you will see incredible health shifts!"
+    },
+    {
+      "question": "What allergies do I have?",
+      "answer": "Pollen and tree nuts"
     }
   ]
 }
