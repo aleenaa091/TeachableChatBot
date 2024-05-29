@@ -71,6 +71,14 @@
     {
       "question": "What allergies do I have?",
       "answer": "Pollen and tree nuts"
+    },
+    {
+      "question": "What is the importance of hand washing?",
+      "answer": "Washing your hands regularly with soap and water is one of the most effective ways to prevent the spread of germs and infectious diseases."
+    },
+    {
+      "question": "How can I maintain a healthy diet?",
+      "answer": "Focus on eating a variety of nutrient-dense foods like fruits, vegetables, whole grains, lean proteins, and healthy fats. "
     }
   ]
 }
