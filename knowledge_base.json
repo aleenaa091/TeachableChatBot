@@ -79,6 +79,14 @@
     {
       "question": "How can I maintain a healthy diet?",
       "answer": "Focus on eating a variety of nutrient-dense foods like fruits, vegetables, whole grains, lean proteins, and healthy fats. "
+    },
+    {
+      "question": "What are the benefits of exercise?",
+      "answer": "Regular physical activity can improve cardiovascular health, strengthen muscles and bones, boost mood and mental wellbeing, control weight, and reduce the risk of chronic diseases like diabetes and some cancers."
+    },
+    {
+      "question": "How do I perform basic first aid?",
+      "answer": "Basic first aid includes stopping bleeding, treating burns, caring for sprains and fractures, performing CPR, and responding to other common emergencies."
     }
   ]
 }
