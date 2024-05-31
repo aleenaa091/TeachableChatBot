@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f34fbb-04b7-4512-9865-8d6e95075c92" name="Changes" comment="Final teachable chatbot" />
+    <list default="true" id="01f34fbb-04b7-4512-9865-8d6e95075c92" name="Changes" comment="Final teachable chatbot">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge_base.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge_base.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +88,8 @@
       <workItem from="1716337368049" duration="861000" />
       <workItem from="1716845846959" duration="313000" />
       <workItem from="1716846622881" duration="16000" />
+      <workItem from="1716999120239" duration="181000" />
+      <workItem from="1717171869481" duration="199000" />
     </task>
     <task id="LOCAL-00001" summary="Final teachable chatbot">
       <option name="closed" value="true" />
@@ -142,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716846635769</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Final teachable chatbot">
+      <option name="closed" value="true" />
+      <created>1716999191967</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716999191967</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final teachable chatbot">
+      <option name="closed" value="true" />
+      <created>1716999298654</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716999298654</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +185,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Final teachable chatbot" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TeachableChat$main.coverage" NAME="main Coverage Results" MODIFIED="1716846127690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TeachableChat$main.coverage" NAME="main Coverage Results" MODIFIED="1717172040733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

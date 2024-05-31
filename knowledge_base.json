@@ -87,6 +87,26 @@
     {
       "question": "How do I perform basic first aid?",
       "answer": "Basic first aid includes stopping bleeding, treating burns, caring for sprains and fractures, performing CPR, and responding to other common emergencies."
+    },
+    {
+      "question": "What is the normal body temperature for a healthy adult?",
+      "answer": "The normal body temperature range is typically 97°F (36.1°C) to 99°F (37.2°C)."
+    },
+    {
+      "question": "How often should you get a physical exam?",
+      "answer": "It is recommended to get a routine physical exam once a year, or as advised by your healthcare provider."
+    },
+    {
+      "question": "What are the common symptoms of the flu?",
+      "answer": "Common flu symptoms include fever, cough, sore throat, body aches, headaches, fatigue, and in some cases, vomiting and diarrhea."
+    },
+    {
+      "question": "How can you prevent the spread of the common cold?",
+      "answer": "Preventive measures include washing your hands frequently, avoiding touching your face, and covering your coughs and sneezes."
+    },
+    {
+      "question": "What is the difference between a cold and the flu?",
+      "answer": "The flu typically causes more severe symptoms, such as higher fever, body aches, and potential complications, compared to the common cold."
     }
   ]
 }
